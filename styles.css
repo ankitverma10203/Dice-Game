@@ -1,0 +1,30 @@
+body {
+  background-color: #543864;
+  box-sizing: border-box;
+  color:#f2a365;
+  font-family: cursive, sans-serif;
+  height: 100vh;
+  margin: 0;
+  padding-top: 1vh;
+  position: relative;
+  text-align: center;
+}
+h1 {
+  font-size: 10vh;
+  margin-bottom: 0;
+}
+
+img {
+  height: auto;
+  width: 15vw;
+  margin: 1vw 5vw 0 5vw;
+}
+footer {
+  width: 100vw;
+}
+
+.dice {
+  display: inline-block;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+}
